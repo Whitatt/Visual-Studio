@@ -1,0 +1,27 @@
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\bin\Debug\net6.0\appsettings.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\bin\Debug\net6.0\VIsual Studio.staticwebassets.runtime.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\bin\Debug\net6.0\VIsual Studio.exe
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\bin\Debug\net6.0\VIsual Studio.deps.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\bin\Debug\net6.0\VIsual Studio.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\bin\Debug\net6.0\VIsual Studio.dll
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\bin\Debug\net6.0\ref\VIsual Studio.dll
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\bin\Debug\net6.0\VIsual Studio.pdb
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.GlobalUsings.g.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.RazorAssemblyInfo.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.RazorAssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\scopedcss\bundle\VIsual Studio.styles.css
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\scopedcss\projectbundle\VIsual Studio.bundle.scp.css
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.dll
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\ref\VIsual Studio.dll
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.pdb
+C:\Users\whalt\Documents\GitHub\Visual-Studio\VIsual Studio\VIsual Studio\obj\Debug\net6.0\VIsual Studio.genruntimeconfig.cache
