@@ -1,0 +1,38 @@
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\Visual Studio Assignment Project.exe
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\Visual Studio Assignment Project.deps.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\Visual Studio Assignment Project.runtimeconfig.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\Visual Studio Assignment Project.runtimeconfig.dev.json
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\Visual Studio Assignment Project.dll
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\Visual Studio Assignment Project.pdb
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\Visual Studio Assignment Project.Views.dll
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\bin\Debug\netcoreapp3.1\Visual Studio Assignment Project.Views.pdb
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.csproj.AssemblyReference.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.AssemblyInfoInputs.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.AssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.csproj.CoreCompileInputs.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.RazorAssemblyInfo.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.RazorAssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\staticwebassets\Visual Studio Assignment Project.StaticWebAssets.Manifest.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\staticwebassets\Visual Studio Assignment Project.StaticWebAssets.xml
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Visual Studio Assignment Project.styles.css
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.TagHelpers.input.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.TagHelpers.output.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.RazorCoreGenerate.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.RazorTargetAssemblyInfo.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.RazorTargetAssemblyInfo.cs
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.Views.pdb
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.dll
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.pdb
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.genruntimeconfig.cache
+C:\Users\whalt\Documents\GitHub\Visual-Studio\Visual Studio Assignment Project\Visual Studio Assignment Project\obj\Debug\netcoreapp3.1\Visual Studio Assignment Project.csproj.CopyComplete

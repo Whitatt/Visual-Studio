@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af7a41bb-4597-400c-bf16-4bffa9365ae5": {
+      "ProjectGuid": "af7a41bb-4597-400c-bf16-4bffa9365ae5",
+      "DisplayName": "VIsual Studio",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
